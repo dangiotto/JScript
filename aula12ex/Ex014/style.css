@@ -1,0 +1,36 @@
+body {
+    background: rgb(69, 118, 253);
+    font: normal 1.5rem Arial;
+    color: white;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 500px;
+    margin: auto;
+    box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.349);
+}
+
+div {
+    text-align: center;
+}
+
+div#msg {
+    color: black;
+}
+
+div#foto{
+    padding-top: 10px;
+}
+
+footer {
+    text-align: center;
+    font-style: italic;
+    font: 1rem;
+}
